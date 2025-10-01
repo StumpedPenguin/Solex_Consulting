@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Solex Consulting">
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#79b7c5"/>
+      <stop offset="1" stop-color="#7fd4c2"/>
+    </linearGradient>
+  </defs>
+  <g fill="none">
+    <path d="M32 3l22 12.5v25L32 53 10 40.5v-25L32 3z" fill="url(#a)" opacity=".9"/>
+    <path d="M32 10l15 8.5v17L32 44 17 35.5v-17L32 10z" stroke="#0f1b2d" stroke-opacity=".15" stroke-width="2" fill="none"/>
+  </g>
+</svg>
