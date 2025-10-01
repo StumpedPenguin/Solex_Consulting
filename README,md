@@ -1,0 +1,12 @@
+# Solex Consulting (Static Site)
+
+Netlify-ready static site (HTML/CSS/JS).
+
+- **Home**: `index.html`
+- **Services**: `services.html`
+- **About**: `about.html`
+- **Contact**: `contact.html` (Netlify form enabled)
+- **Thanks**: `thanks.html`
+- **Assets**: `/assets/css`, `/assets/js`, `/assets/img`
+
+**Deploy on Netlify:** Publish directory = `/` (root). No build command needed.
